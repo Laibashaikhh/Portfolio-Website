@@ -26,13 +26,13 @@ Prerequisites
 Steps
 1. Clone the repository
 
-sh
+
 Copy code
 git clone https://github.com/laibashaikhh/portfolio-website.git
 
 2. Open the project in Visual Studio Code
 
-sh
+
 Copy code
 cd portfolio-website
 code .
